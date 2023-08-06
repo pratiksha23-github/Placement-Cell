@@ -1,4 +1,5 @@
-# NodeJS-Placement-Cell
+# Placement-Cell Application
+
  <h1 align="center">Placement Cell  📝</h1> 
 <p align="center">
  🖊️ An interface for coding ninjas placement cell to keep records of students and schedule interviews with different companies <br>
